@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UPDATE_FXFLASH/1.0.0": {
+        "runtime": {
+          "UPDATE_FXFLASH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UPDATE_FXFLASH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
